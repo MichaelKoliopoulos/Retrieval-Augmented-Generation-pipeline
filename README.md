@@ -2,6 +2,7 @@
 
 ## Project Overview
 This project implements an intelligent query system for books using a Retrieval-Augmented Generation (RAG) architecture. The system processes books (PDF format), extracts rich metadata, and enables semantic search and question answering capabilities.
+In this instance we will be using the wonderful book on Stoics "The Obstacle is The Way" by Ryan Holiday.
 
 ## Features
 - PDF document processing and text extraction
